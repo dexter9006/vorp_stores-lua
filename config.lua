@@ -22,7 +22,7 @@ Config.WebhookLogo = ""
 Config.WebhookLogo2 = ""
 Config.WebhookAvatar = ""
 
-Config.defaultlang = "en_lang"
+Config.defaultlang = "fr_lang"
 
 -- open stores
 Config.Key = 0x760A9C6F --[G]
@@ -31,7 +31,7 @@ Config.Key = 0x760A9C6F --[G]
 Config.Stores = {
     Valentine = {
         blipAllowed = true,
-        BlipName = "valentine store",
+        BlipName = "Valentine store",
         storeName = "valentine",
         PromptName = "general store",
         sprite = 1475879922,
@@ -176,7 +176,7 @@ Config.Stores = {
     },
     StDenis = {
         blipAllowed = true,
-        BlipName = "ST Denis Store",
+        BlipName = "St Denis Store",
         storeName = "ST Denis",
         PromptName = "general store",
         sprite = 1475879922,
